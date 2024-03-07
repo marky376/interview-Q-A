@@ -9,7 +9,7 @@ int main(void)
 
 			printf("Fizz");
 		}
-		if else (i % 5 == 0)
+		else if (i % 5 == 0)
 		{
 			printf("Buzz");
 		}
