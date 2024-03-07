@@ -15,7 +15,7 @@ int main(void)
 		{
 			printf("Buzz\n");
 		}
-		else
+		else (i % 5 & i % 3)
 			printf("FizzBuzz\n");
 	}
 }
