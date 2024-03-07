@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// The FizzBuzz concept
 int main(void)
 {
 	int i;
